@@ -1,0 +1,13 @@
+/
+/2026/
+/2026/01/
+/2026/01/348/
+/2026/01/almoco-executivo/
+/2026/01/noite-musical/
+/?wp_block=rodape-astra
+/?wp_block=rodape-fresco
+/?wp_global_styles=wp-global-styles-astra-child
+/?wp_navigation=navigation
+/cardapio/
+/category/noticias/
+/category/noticias/eventos/
